@@ -2,15 +2,24 @@
 
 hi. i keep small notes, tiny scripts, and weird little checks.
 
-currently poking:
+## what shows up here
 
-- low-noise automation
+- small tools
+- field notes
 - link smell checks
-- small python helpers
-- field notes that do not need a whole blog post
+- low-noise automation
+- tiny python helpers
 
-main notebook:
+## current vibe
+
+small repos. odd brain. useful output.
+
+## main notebook
 
 - [fieldnote](https://github.com/rikka0x/fieldnote)
 
-current rule: write it down before opening five more tabs.
+## rule
+
+write it down before opening five more tabs.
+
+no seed phrases. no blind approvals. no shiny nonsense.
