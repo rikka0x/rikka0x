@@ -1,8 +1,7 @@
 # Rikka (`rikka0x`)
 
-terlalu banyak tab, terlalu sedikit sabar.
-
-Rikka builds small tools, writes notes, and stares at suspicious links longer than necessary.
+too many tabs, not enough patience.
+Rikka builds small tools, writes notes, and checks suspicious links twice before clicking.
 
 ## what shows up here
 
