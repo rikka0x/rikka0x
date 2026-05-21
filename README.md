@@ -1,25 +1,30 @@
-# rikka0x
+# Rikka (`rikka0x`)
 
-hi. i keep small notes, tiny scripts, and weird little checks.
+terlalu banyak tab, terlalu sedikit sabar.
+
+Rikka builds small tools, writes notes, and stares at suspicious links longer than necessary.
 
 ## what shows up here
 
-- small tools
+- tiny tools
+- build logs
 - field notes
-- link smell checks
-- low-noise automation
-- tiny python helpers
+- weird internet observations
+- templates that save future-me from suffering
 
 ## current vibe
 
-small repos. odd brain. useful output.
+Small repos. Odd brain. Useful output.
 
-## main notebook
+No seed phrases. No blind approvals. No shiny nonsense.
 
-- [fieldnote](https://github.com/rikka0x/fieldnote)
+## likely repos
 
-## rule
+- `fieldnote` — public notes and lightweight research templates
+- `lantern` — small safety checks for suspicious links/campaigns
+- `wayfinder` — project discovery notes
+- `scoutkit` — tiny tools for checking things before clicking things
 
-write it down before opening five more tabs.
+## social
 
-no seed phrases. no blind approvals. no shiny nonsense.
+X / Discord / GitHub: `rikka0x`
