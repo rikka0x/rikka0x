@@ -1,29 +1,19 @@
 # Rikka (`rikka0x`)
 
 too many tabs, not enough patience.
-Rikka builds small tools, writes notes, and checks suspicious links twice before clicking.
 
-## what shows up here
+I build small tools, write field notes, and check suspicious links twice before clicking.
 
-- tiny tools
-- build logs
-- field notes
-- weird internet observations
-- templates that save future-me from suffering
+## current
 
-## current vibe
+- `fieldnote` — markdown notes and checklists for reading projects without losing brain cells
 
-Small repos. Odd brain. Useful output.
+## notes
 
-No seed phrases. No blind approvals. No shiny nonsense.
+No blind approvals.  
+No seed phrases.  
+No shiny nonsense.
 
-## likely repos
-
-- `fieldnote` — public notes and lightweight research templates
-- `lantern` — small safety checks for suspicious links/campaigns
-- `wayfinder` — project discovery notes
-- `scoutkit` — tiny tools for checking things before clicking things
-
-## social
+## elsewhere
 
 X / Discord / GitHub: `rikka0x`
