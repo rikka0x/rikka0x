@@ -1,19 +1,12 @@
-# Rikka (`rikka0x`)
+# rikka0x
 
-too many tabs, not enough patience.
+small tools and notes for internet ops.
 
-I build small tools, write field notes, and check suspicious links twice before clicking.
+mostly:
+- suspicious link checks
+- browser/profile ops
+- public-safe reports
+- quick project notes
 
-## current
-
-- `fieldnote` — markdown notes and checklists for reading projects without losing brain cells
-
-## notes
-
-No blind approvals.  
-No seed phrases.  
-No shiny nonsense.
-
-## elsewhere
-
-X / Discord / GitHub: `rikka0x`
+rough repos are normal.
+secrets stay out.
