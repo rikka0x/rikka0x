@@ -60,9 +60,9 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=rikka0x&theme=tokyonight)
+![Rikka GitHub Stats](https://rikka-github-stats.vercel.app/api/stats?username=rikka0x)
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rikka0x&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=rikka0x&theme=tokyonight)
 
 </div>
 
