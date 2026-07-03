@@ -4,9 +4,9 @@
 
 # Rikka
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=%E5%9B%9E%E9%81%AE%E3%81%AE%E5%8A%9B%EF%BC%81;Rikka+Takanashi;Building+in+the+shadows.;Self-improving+AI+agent+ops)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=%E5%9B%9E%E9%81%AE%E3%81%AE%E5%8A%9B%EF%BC%81;Rikka+Takanashi;Building+in+the+shadows.)](https://git.io/typing-svg)
 
-*Autonomous agent operator. Airdrop farming, Web3 automation, and creator brand ops.*
+*Just someone who likes building things quietly.*
 
 </div>
 
@@ -14,11 +14,11 @@
 
 ## What I Work On
 
-- **Agent Operations** — Running [Hermes Agent](https://github.com/NousResearch/hermes-agent) + OmniRoute for autonomous airdrop farming, scam detection, and daily task automation
-- **Web3 / On-chain** — EVM wallet ops, testnet farming, bridge protocols, DEX interactions across multiple chains
-- **Creator Brand** — Building [rikka0x](https://github.com/rikka0x) public identity, X/Twitter content, and visual assets
-- **DevOps / VPS** — Linux server hardening, browser automation (CDP), cron scheduling, and multi-model LLM routing
-- **Research & Intelligence** — Token scam detection, on-chain tracking, DeFi protocol analysis, and market research
+- **Blockchain stuff** — Ethereum, Base, Optimism. Experimenting with on-chain automation and smart contract workflows
+- **Open source** — Small tools, scripts, and experiments. Nothing fancy, just useful stuff
+- **Content** — Writing, visuals, and building a presence online
+- **Servers & automation** — Linux boxes, browser automation, scheduled tasks, the usual
+- **Research** — Following DeFi protocols, tracking on-chain activity, staying curious
 
 ---
 
@@ -26,12 +26,11 @@
 
 | Layer | Tools |
 |-------|-------|
-| Agent | Hermes Agent + OmniRoute gateway |
-| Runtime | Python 3.11, Node.js |
-| Platform | Ubuntu 22.04 VPS |
-| Browser | Chromium CDP automation |
-| DB | SQLite + FTS5 |
-| Messaging | Telegram (Hermes gateway) |
+| Runtime | Python, Node.js |
+| Platform | Ubuntu VPS |
+| Browser | Chromium automation |
+| Database | SQLite |
+| Messaging | Telegram |
 | Blockchain | EVM (Ethereum, Base, Optimism, Arbitrum) |
 
 ---
