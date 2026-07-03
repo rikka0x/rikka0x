@@ -37,15 +37,11 @@
 
 ## Repositories
 
-<div align="center">
-
 | Repo | Description |
 |------|-------------|
-| [rikka0x](https://github.com/rikka0x/rikka0x) | Profile — small notes, tiny scripts, field checks |
-| [fieldnote](https://github.com/rikka0x/fieldnote) | Markdown toolkit for quick project notes and link checks |
+| [rikka0x](https://github.com/rikka0x/rikka0x) | Profile — notes, scripts, field checks |
+| [fieldnote](https://github.com/rikka0x/fieldnote) | Markdown toolkit for project notes and link checks |
 | [rikka-studio](https://github.com/rikka0x/rikka-studio) | Web workspace for prompt experiments via OpenAI-compatible APIs |
-
-</div>
 
 ---
 
@@ -66,9 +62,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rikka0x&theme=tokyonight)
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rikka0x&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rikka0x&theme=tokyo-night)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rikka0x&theme=tokyonight)
 
 </div>
 
