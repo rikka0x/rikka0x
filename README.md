@@ -55,10 +55,6 @@
 
 ---
 
-<div align="center">
-<img src="assets/rikka-banner.gif" width="100%" alt="Rikka" />
-</div>
-
 ## GitHub Stats
 
 <div align="center">
