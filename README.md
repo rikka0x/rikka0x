@@ -2,7 +2,6 @@
 
 <img src="assets/rikka-banner.gif" width="420" alt="Rikka Takanashi" />
 
-<!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=%E5%9B%9E%E9%81%85%E3%81%AE%E5%8A%9B%EF%BC%81;Rikka+Takanashi;Building+in+the+shadows.)](https://git.io/typing-svg)
 
 *Just someone who likes building things quietly.*
@@ -56,36 +55,28 @@
 
 ---
 
+<div align="center">
+<img src="assets/rikka-banner.gif" width="100%" alt="Rikka" />
+</div>
+
 ## GitHub Stats
 
 <div align="center">
 
-<img src="assets/rikka-stats-bg.gif" width="420" alt="Rikka Takanashi" />
+<!-- Custom Rikka stats card (self-hosted on Vercel) -->
+<img src="https://rikka-github-stats.vercel.app/api/stats?username=rikka0x&theme=rikka" width="440" alt="Rikka Stats" />
 
 <br/><br/>
 
-<!-- Stats + Streak side by side -->
-<a href="https://github.com/rikka0x">
-  <img src="https://github-readme-stats.vercel.app/api?username=rikka0x&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0b1a&title_color=7c3aed&icon_color=14b8a6&text_color=c4b5fd&border_color=7c3aed" width="380" alt="Stats" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/rikka0x">
-  <img src="https://streak-stats.demolab.com?user=rikka0x&theme=tokyonight&hide_border=true&background=0d0b1a&ring=7c3aed&fire=14b8a6&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=94a3b8&border=7c3aed" width="380" alt="Streak" />
-</a>
-
-<br/><br/>
-
-<!-- Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=rikka0x&theme=discord&no-bg=true&no-frame=true&column=4&margin-w=8&margin-h=8" width="420" alt="Trophies" />
+<!-- Streak stats -->
+<img src="https://streak-stats.demolab.com?user=rikka0x&theme=tokyonight&hide_border=true&background=0D0B1A&ring=7C3AED&fire=14B8A6&currStreakLabel=A78BFA&sideLabels=C4B5FD&dates=94A3B8&border=7C3AED" width="440" alt="Streak" />
 
 </div>
 
 ---
 
 <div align="center">
-
 <img src="assets/rikka-footer.gif" width="280" alt="Rikka" />
 
 *"Chuunibyou demo Koi ga Shitai!"*
-
 </div>
